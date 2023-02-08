@@ -5,6 +5,10 @@ public class MyClass {
 	{
 		System.out.println("Hey Everyone , Welcome to Jenkins") ;
 	}
+	public void Display()
+	{
+		System.out.println("Hello Anshika") ;
+	}
     public static void main(String[] args) {
 		
     	MyClass ob = new MyClass ();
